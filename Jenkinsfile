@@ -3,7 +3,7 @@ node {
   
    stage('SCM Checkout'){
   
-   https://github.com/ravi9168/my-app-jenkins
+   git 'https://github.com/ravi9168/my-app-jenkins'
 	
    }
    
